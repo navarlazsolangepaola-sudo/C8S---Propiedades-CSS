@@ -1,1 +1,67 @@
 
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    background-color: #f5efe6;
+    color: #333333;
+}
+
+
+
+/* Título principal */
+h1 {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+/* Menú de navegación */
+nav {
+    background-color: #005677;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Contenido principal */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* Sección de presentación */
+section {
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+/* Subtítulo */
+h2 {
+    background-color: #c4c4c4;
+    color: #005677;
+    font-size: 22px;
+    padding: 10px;
+}
+
+/* Párrafos personales */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
